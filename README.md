@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello Everyone 👋
 
-<!--
-**Jessy-Enfield/Jessy-Enfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on ... Some Projects for College
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning ... Some Algorithms for Graphs (Shorts path, Exchange arguements, Prims(MST) )
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+- 👯 I’m looking to collaborate on ... Some Projects that incorperate applications of graphs and/ or ML 
+
+- 😄 Pronouns: ... He / Him
+
+- ⚡ Fun fact: ...About 17,000 kWh of electricity are required to produce 1 tonne of aluminium.
+
