@@ -7,4 +7,4 @@
   
 - 👯 I’m looking to collaborate on ... Some Projects that incorperate applications of language models and Machine Learning/ deep learning 
 
-- 😄 Pronouns: ... He / Him
+
