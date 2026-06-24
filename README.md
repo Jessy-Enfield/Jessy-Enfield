@@ -32,14 +32,6 @@ I am a **Computer Science M.S. Candidate** specializing in backend engineering, 
 - Designed a two-phase training pipeline (bootstrap mask evaluation + surrogate-guided training) with per-class evaluation (precision, recall, F1) on balanced and imbalanced datasets.
 - Discovered that learned masks improve accuracy by 3–5% when used for pathway focusing, highlighting effectiveness for attention/pruning over traditional dropout regularization.
 ---
-
-### 📊 GitHub Stats
-
-![Jessy's GitHub Stats](https://vercel.app)
-![Top Langs](https://vercel.app)
-
----
-
 ### 📫 Connect with Me
-- **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
+- **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/jessy-enfield-a39206182)
 - **Email:** Jessyenfield@gmail.com
